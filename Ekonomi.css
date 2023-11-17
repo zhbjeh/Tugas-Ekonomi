@@ -1,0 +1,24 @@
+.gambar{
+    background-image:url(6.-image.-Kolonel-Sanders.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+    
+}
+
+p{
+    color: rgb(255, 104, 104);
+}
+
+h2{
+    color: rgb(255, 0, 0)
+}
+
+h1{
+    color:  rgb(255, 0, 0);
+}
+
+lo{
+    color: rgb(255, 104, 104);
+}
